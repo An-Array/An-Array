@@ -32,6 +32,10 @@
 
 ###
 
+  <img src="https://raw.githubusercontent.com/An-Array/An-Array/output/snake.svg" alt="Snake animation" />
+  
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -39,13 +43,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=An-Array&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=An-Array&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/An-Array/An-Array/output/snake.svg" alt="Snake animation" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=An-Array&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-
 
 ###
 
