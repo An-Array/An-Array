@@ -54,7 +54,7 @@
 ###
 
 <div align="right">
-  <h3>Profile Views: <img src="https://profile-counter.glitch.me/An-Array/count.svg?"  /></h3>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=An-Array.An-Array&" alt="Profile Views"/>
 </div>
 
 ###
