@@ -54,7 +54,7 @@
 ###
 
 <div align="right">
-  <p>Profile Views: </p><img src="https://profile-counter.glitch.me/An-Array/count.svg?"  />
+  <p>Profile Views: <img src="https://profile-counter.glitch.me/An-Array/count.svg?"  /></p>
 </div>
 
 ###
