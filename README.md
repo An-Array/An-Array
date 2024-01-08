@@ -10,11 +10,6 @@
 
 ###
 
-[![An image of @anarray's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anarray)](https://holopin.io/@anarray)
-
-
-###
-
 <h3 align="left">🛠 Languages & Tools :</h3>
 
 ###
@@ -53,7 +48,11 @@
 
 ###
 
-<div align="center">
+[![An image of @anarray's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anarray)](https://holopin.io/@anarray)
+
+###
+
+<div align="right">
   <img src="https://profile-counter.glitch.me/An-Array/count.svg?"  />
 </div>
 
