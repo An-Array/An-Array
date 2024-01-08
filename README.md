@@ -4,12 +4,12 @@
 
 ###
 
-
-[![An image of @anarray's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anarray)](https://holopin.io/@anarray)
+<h1 align="center">Hi there 👋</h1>
 
 ###
 
-<h1 align="center">Hi there 👋</h1>
+[![An image of @anarray's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anarray)](https://holopin.io/@anarray)
+
 
 ###
 
