@@ -1,10 +1,12 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif"  />
-</div>
+
+
+<h1 align="center">Hi there 👋</h1>
 
 ###
 
-<h1 align="center">Hi there 👋</h1>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif"  />
+</div>
 
 ###
 
