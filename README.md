@@ -47,10 +47,6 @@
 
 ###
 
-[![An image of @anarray's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anarray)](https://holopin.io/@anarray)
-
-###
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=An-Array.An-Array&"  />
 
 ###
