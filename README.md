@@ -1,52 +1,83 @@
-<h1 align="center">Hi there 👋</h1>
+<!-- Profile Views Badge -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=An-Array&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-###
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Aaryan</h1>
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/9Y1wF3wx1Dex8w9wxL/giphy.gif"  />
-</div>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=50C878&center=true&vCenter=true&width=435&lines=+Python.+Dashboards.+Automation.; +Grit. +Growth. +Git." alt="Typing SVG" />
+</p>
 
-###
+---
 
-<h3 align="left">🛠 Languages & Tools :</h3>
+## 🧠 About Me
 
-###
+🎓 Recent CS graduate passionate about **data, automation, and solving real-world problems**  
+🚀 I thrive on challenges that stretch my thinking and spark curiosity  
+💡 I build smart pipelines, automate decisions, and dig into data — even if it means grunt work  
+📌 Recently built a fantasy cricket team optimizer using weighted logic and visual insights  
+🛠 Currently sharpening skills in **interactive data tools** and **visual storytelling**
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-</div>
+## 🛠 Tools & Technologies
 
-###
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/An-Array/An-Array/output/snake.svg" alt="Snake animation" />
+### 📊 Data & Viz
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-###
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=An-Array&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=An-Array&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=An-Array&radius=20&theme=nightowl&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=An-Array&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-Array&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=An-Array&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=An-Array.An-Array&"  />
+---
 
-###
+## 🚀 Currently Working On
+
+- ⚡ Automating fantasy team generation with data-driven weights  
+- 📊 Building interactive visualizations using Plotly & Altair  
+- 🛠️ Real-time dashboards using Streamlit + pandas  
+- 🤖 Exploring algorithmic biases in selection through code
+
+---
+
+## 🤝 Let's Connect
+
+If you're working on something exciting, I'd love to help or learn.  
+📬 **Email**: [aaryanrm3@gmail.com](mailto:aaryanrm3@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/anarray](https://linkedin.com/in/anarray)  
+<!-- 👨‍💻 **Portfolio**: Coming soon   -->
+
+---
+
+## 🙏 Thanks for visiting!
+
+If you like what I’m building, feel free to ⭐ my repos or reach out for collaboration.  
+Let’s build something meaningful together! 🧠🚀
+
