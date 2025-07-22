@@ -8,7 +8,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=50C878&center=true&vCenter=true&width=435&lines=+Python.+Dashboards.+Automation.; +Grit. +Growth. +Git." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=50C878&center=true&vCenter=true&width=435&lines=Python.+Dashboards.+Automation.;+Grit.+Growth.+Git." alt="Typing SVG" />
 </p>
 
 ---
