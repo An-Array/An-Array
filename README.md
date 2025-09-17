@@ -29,6 +29,7 @@
 
 - 🌱 Currently, I'm deepening my skills in database optimization and production deployment practices using **Docker**.
 </div>
+
 ---
 
 ## 🛠️ My Tech Stack
@@ -97,9 +98,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=An-Array&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=An-Array&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-Array&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-  <br>
   <img src="https://streak-stats.demolab.com/?user=An-Array&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
